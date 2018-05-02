@@ -1,0 +1,121 @@
+name: Georgii Korshunov
+title: &title "Georgii Korshunov's homepage"
+description: *title
+
+icon: ~ # TODO
+image: kipelovets/DEgRgbObX14.jpg
+
+url: https://kipelovets.ru
+
+projects:
+    -
+        title: Last Hope Line
+        date: 2017-08-04
+        description: Interactive fiction chat game for mobile devices
+        icon: kipelovets/lasthopeline.png
+        links:
+            -
+                title: App Store
+                url: https://itunes.apple.com/us/app/last-hope-line-chat-stories/id1139802401?mt=8
+    -
+        title: "It's spring again"
+        date: 2015-11-30
+        description: Educational game for children that interactively tells the story of the change of seasons
+        icon: kipelovets/12191891_997870170275824_4866723085866243092_n.png
+        links:
+            -
+                title: Steam
+                url: https://store.steampowered.com/app/434210/Its_Spring_Again/
+            -
+                title: Nintendo Switch
+                url: https://www.nintendo.com/games/detail/its-spring-again-switch
+            -
+                title: Android
+                url: https://play.google.com/store/apps/details?id=com.babayaga.spring&hl=en
+            -
+                title: App store
+                url: https://itunes.apple.com/us/app/its-spring-again/id1057009913?mt=8
+    -
+        title: GameDevParty
+        date: 
+        description: GameDevParty.Ru website, home of the first russian gamejam 
+        icon: kipelovets/site-logo.png
+        links:
+            -
+                title: Github
+                url: https://github.com/GeekPartyTeam/GeekParty-Site
+            -
+                title: Website
+                url: http://gamedevparty.ru/
+    -
+        title: Sentinel
+        date: 2014-12-08
+        description: Wounded hero lies on a battle field near his mystic sword. Hordes of monsters are coming closer and only you can protect him! <br/> Made for LudumDare 31
+        icon: kipelovets/46923-shot0.png-eq-900-500.jpg.png
+        links:
+            -
+                title: Play
+                url: http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=46923
+    -
+        title: SoulPath
+        date: 2015-07-13
+        description: Turn-based puzzle game, winner of GDP3 gamejam
+        icon: kipelovets/203_icon.png
+        links:
+            -
+                title: Play
+                url: http://gamedevparty.ru/browse/gdp3/203
+    -
+        title: BeAMan
+        date: 2015-02-03 
+        description: Superhero spy dialogue-based spy game for GDP gamejam
+        icon: kipelovets/152_icon.png
+        links:
+            -
+                title: Play
+                url: http://gamedevparty.ru/browse/GDP%231/152
+    -
+        title: Ice pick
+        date: 2014-10-26
+        description: Top-down horror game for Next Castle gamejam
+        icon: kipelovets/44_icon.png
+        links:
+            -
+                title: Play
+                url: http://gamedevparty.ru/browse/NCGP1/44
+    -
+        title: The Goose Saga
+        date: 2015-04-21
+        description: Platformer with a goose on the head for GDP2 gamejam
+        icon: kipelovets/179_icon.png
+        links:
+            -
+                title: Play
+                url: http://gamedevparty.ru/browse/GDP%232/179
+    -
+        title: Happy Hoe
+        date: 2014-08-02
+        description: Text-based whore simulator for Chaos Constructions 2014 realtime game jam (geek party 8)
+        icon: kipelovets/33_icon.png
+        links:
+            -
+                title: Play
+                url: http://gamedevparty.ru/browse/GP8/happyhoe
+    -
+        title: AstroCats
+        date: 2017-04-25
+        description: Multiplayer duel game for LudumDare 38
+        icon: kipelovets/1a4f.png
+        links:
+            -
+                title: Play
+                url: https://ldjam.com/events/ludum-dare/38/astocats
+    -
+        title: Star Soul
+        date: 2015-09-28
+        description: Unfinished gamejam game
+        icon: kipelovets/235_icon.png
+        links:
+            -
+                title: Play
+                url: http://gamedevparty.ru/browse/gdp4/235

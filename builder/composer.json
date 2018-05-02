@@ -1,0 +1,13 @@
+{
+    "name": "kipelovets/website-builder",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Georgii Korshunov",
+            "email": "kipelovets@mail.ru"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.4"
+    }
+}
