@@ -1,2 +1,2 @@
 build:
-	cd builder && docker-compose run --rm php php builder/build.php
+	cd builder && docker-compose run --rm php 
