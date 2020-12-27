@@ -9,6 +9,24 @@ url: https://kipelovets.ru
 
 projects:
     -
+        title: "Focus β"
+        date: 2020
+        description: Personal task management app
+        icon: kipelovets/focus.png
+        links:
+            - 
+                title: Website
+                url: https://focus.kipelovets.ru
+    -
+        title: "GWENT: The Witcher Card Game"
+        date: 2018-10-23
+        description: Multiplayer CCG in the Witcher universe
+        icon: kipelovets/logo-gwent-big-en.png
+        links:
+            - 
+                title: Website
+                url: https://playgwent.com
+    -
         title: Last Hope Line
         date: 2017-08-04
         description: Interactive fiction chat game for mobile devices
@@ -24,20 +42,11 @@ projects:
         icon: kipelovets/12191891_997870170275824_4866723085866243092_n.png
         links:
             -
-                title: Steam
-                url: https://store.steampowered.com/app/434210/Its_Spring_Again/
-            -
-                title: Nintendo Switch
-                url: https://www.nintendo.com/games/detail/its-spring-again-switch
-            -
-                title: Android
-                url: https://play.google.com/store/apps/details?id=com.babayaga.spring&hl=en
-            -
-                title: App store
-                url: https://itunes.apple.com/us/app/its-spring-again/id1057009913?mt=8
+                title: Website
+                url: http://babayagagames.ru/itsspringagain/
     -
         title: GameDevParty
-        date: 
+        date: 2013 - 2016
         description: GameDevParty.Ru website, home of the first russian gamejam 
         icon: kipelovets/site-logo.png
         links:
@@ -64,7 +73,7 @@ projects:
         links:
             -
                 title: Play
-                url: http://gamedevparty.ru/browse/gdp3/203
+                url: http://kipelovets.ru/temple/
     -
         title: BeAMan
         date: 2015-02-03 
