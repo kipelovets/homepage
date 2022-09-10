@@ -9,14 +9,14 @@ url: https://kipelovets.ru
 
 projects:
     -
-        title: "Focus β"
+        title: "Focus"
         date: 2020
         description: Personal task management app
         icon: kipelovets/focus.png
         links:
             - 
                 title: Website
-                url: https://focus.kipelovets.ru
+                url: https://focus.sharpfocus.app
     -
         title: "GWENT: The Witcher Card Game"
         date: 2018-10-23
