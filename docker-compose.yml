@@ -1,0 +1,19 @@
+version: "3.9"
+
+services:
+    composer:
+        image: composer:2.4.1
+        working_dir: /app
+        volumes: 
+            - ./:/app
+    php:
+        build: builder
+        working_dir: /app
+        volumes: 
+            - ./:/app
+    nginx:
+        image: nginx:1.23-alpine
+        volumes: 
+            - ./public:/usr/share/nginx/html
+        ports:
+            - "80:80"

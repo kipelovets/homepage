@@ -1,6 +1,0 @@
-php:
-    build: .
-    working_dir: /app
-    volumes: 
-        - ../:/app
-    command: bash -c "cd builder && composer install && php build.php"

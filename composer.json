@@ -1,5 +1,5 @@
 {
-    "name": "kipelovets/website-builder",
+    "name": "kipelovets/homepage",
     "type": "project",
     "authors": [
         {
@@ -8,6 +8,6 @@
         }
     ],
     "require": {
-        "twig/twig": "^2.4"
+        "twig/twig": "^3"
     }
 }
